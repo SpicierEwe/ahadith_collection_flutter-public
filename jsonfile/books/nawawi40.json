@@ -1,0 +1,21 @@
+[{
+  "books" : {
+    "limit" : 100,
+    "total" : 0
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "",
+    "title" : "An-Nawawi's 40 Hadith"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "",
+    "title" : "الأربعون النووية"
+  } ],
+  "hasBooks" : false,
+  "hasChapters" : false,
+  "name" : "nawawi40",
+  "totalAvailableHadith" : 42,
+  "totalHadith" : 42
+}
+]

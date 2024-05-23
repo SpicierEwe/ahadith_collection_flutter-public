@@ -1,0 +1,1186 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Revelation"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب بدء الوحى "
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 7,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 7
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Belief"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإيمان "
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 58,
+      "hadithStartNumber" : 8,
+      "numberOfHadith" : 51
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Knowledge"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العلم "
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 134,
+      "hadithStartNumber" : 59,
+      "numberOfHadith" : 76
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Ablutions (Wudu')"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الوضوء"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 247,
+      "hadithStartNumber" : 135,
+      "numberOfHadith" : 113
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Bathing (Ghusl)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الغسل "
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 293,
+      "hadithStartNumber" : 248,
+      "numberOfHadith" : 45
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Menstrual Periods"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحيض "
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 333,
+      "hadithStartNumber" : 294,
+      "numberOfHadith" : 37
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Rubbing hands and feet with dust (Tayammum)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التيمم "
+      } ],
+      "bookNumber" : "7",
+      "hadithEndNumber" : 348,
+      "hadithStartNumber" : 334,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prayers (Salat)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصلاة "
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 520,
+      "hadithStartNumber" : 349,
+      "numberOfHadith" : 167
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Times of the Prayers"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب مواقيت الصلاة "
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 602,
+      "hadithStartNumber" : 521,
+      "numberOfHadith" : 77
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Call to Prayers (Adhaan)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأذان "
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 875,
+      "hadithStartNumber" : 603,
+      "numberOfHadith" : 266
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Friday Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجمعة "
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 941,
+      "hadithStartNumber" : 876,
+      "numberOfHadith" : 65
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Fear Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب صلاة الخوف "
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 947,
+      "hadithStartNumber" : 942,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Two Festivals (Eids)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العيدين "
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 989,
+      "hadithStartNumber" : 948,
+      "numberOfHadith" : 37
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Witr Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الوتر "
+      } ],
+      "bookNumber" : "14",
+      "hadithEndNumber" : 1004,
+      "hadithStartNumber" : 990,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Invoking Allah for Rain (Istisqaa)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاستسقاء "
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 1039,
+      "hadithStartNumber" : 1005,
+      "numberOfHadith" : 34
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Eclipses"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الكسوف "
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 1065,
+      "hadithStartNumber" : 1040,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prostration During Recital of Qur'an"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب سجود القرآن "
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 1079,
+      "hadithStartNumber" : 1067,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Shortening the Prayers (At-Taqseer)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التقصير "
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 1119,
+      "hadithStartNumber" : 1080,
+      "numberOfHadith" : 39
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prayer at Night (Tahajjud)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التهجد "
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 1187,
+      "hadithStartNumber" : 1120,
+      "numberOfHadith" : 63
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Virtues of Prayer at Masjid Makkah and Madinah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فضل الصلاة فى مسجد مكة والمدينة "
+      } ],
+      "bookNumber" : "20",
+      "hadithEndNumber" : 1197,
+      "hadithStartNumber" : 1188,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Actions while Praying"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العمل فى الصلاة "
+      } ],
+      "bookNumber" : "21",
+      "hadithEndNumber" : 1223,
+      "hadithStartNumber" : 1198,
+      "numberOfHadith" : 27
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Forgetfulness in Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب السهو "
+      } ],
+      "bookNumber" : "22",
+      "hadithEndNumber" : 1236,
+      "hadithStartNumber" : 1224,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Funerals (Al-Janaa'iz)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجنائز"
+      } ],
+      "bookNumber" : "23",
+      "hadithEndNumber" : 1394,
+      "hadithStartNumber" : 1237,
+      "numberOfHadith" : 148
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Obligatory Charity Tax (Zakat)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الزكاة "
+      } ],
+      "bookNumber" : "24",
+      "hadithEndNumber" : 1512,
+      "hadithStartNumber" : 1395,
+      "numberOfHadith" : 112
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hajj (Pilgrimage)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحج "
+      } ],
+      "bookNumber" : "25",
+      "hadithEndNumber" : 1771,
+      "hadithStartNumber" : 1513,
+      "numberOfHadith" : 247
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "`Umrah (Minor pilgrimage)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العمرة "
+      } ],
+      "bookNumber" : "26",
+      "hadithEndNumber" : 1805,
+      "hadithStartNumber" : 1773,
+      "numberOfHadith" : 30
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Pilgrims Prevented from Completing the Pilgrimage"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المحصر "
+      } ],
+      "bookNumber" : "27",
+      "hadithEndNumber" : 1820,
+      "hadithStartNumber" : 1806,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Penalty of Hunting while on Pilgrimage"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب جزاء الصيد "
+      } ],
+      "bookNumber" : "28",
+      "hadithEndNumber" : 1866,
+      "hadithStartNumber" : 1821,
+      "numberOfHadith" : 46
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Virtues of Madinah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فضائل المدينة "
+      } ],
+      "bookNumber" : "29",
+      "hadithEndNumber" : 1890,
+      "hadithStartNumber" : 1867,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Fasting"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصوم "
+      } ],
+      "bookNumber" : "30",
+      "hadithEndNumber" : 2007,
+      "hadithStartNumber" : 1891,
+      "numberOfHadith" : 112
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Praying at Night in Ramadaan (Taraweeh)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب صلاة التراويح "
+      } ],
+      "bookNumber" : "31",
+      "hadithEndNumber" : 2013,
+      "hadithStartNumber" : 2008,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Virtues of the Night of Qadr"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فضل ليلة القدر "
+      } ],
+      "bookNumber" : "32",
+      "hadithEndNumber" : 2024,
+      "hadithStartNumber" : 2014,
+      "numberOfHadith" : 11
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Retiring to a Mosque for Remembrance of Allah (I'tikaf)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاعتكاف "
+      } ],
+      "bookNumber" : "33",
+      "hadithEndNumber" : 2046,
+      "hadithStartNumber" : 2025,
+      "numberOfHadith" : 21
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sales and Trade"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب البيوع"
+      } ],
+      "bookNumber" : "34",
+      "hadithEndNumber" : 2238,
+      "hadithStartNumber" : 2047,
+      "numberOfHadith" : 184
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sales in which a Price is paid for Goods to be Delivered Later (As-Salam)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب السلم "
+      } ],
+      "bookNumber" : "35",
+      "hadithEndNumber" : 2256,
+      "hadithStartNumber" : 2239,
+      "numberOfHadith" : 16
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Shuf'a"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الشفعة "
+      } ],
+      "bookNumber" : "36",
+      "hadithEndNumber" : 2259,
+      "hadithStartNumber" : 2257,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hiring"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإجارة "
+      } ],
+      "bookNumber" : "37",
+      "hadithEndNumber" : 2285,
+      "hadithStartNumber" : 2260,
+      "numberOfHadith" : 25
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Transferance of a Debt from One Person to Another (Al-Hawaala)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحوالات "
+      } ],
+      "bookNumber" : "38",
+      "hadithEndNumber" : 2289,
+      "hadithStartNumber" : 2287,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Kafalah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الكفالة "
+      } ],
+      "bookNumber" : "39",
+      "hadithEndNumber" : 2298,
+      "hadithStartNumber" : 2290,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Representation, Authorization, Business by Proxy"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الوكالة "
+      } ],
+      "bookNumber" : "40",
+      "hadithEndNumber" : 2319,
+      "hadithStartNumber" : 2299,
+      "numberOfHadith" : 18
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Agriculture"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المزارعة "
+      } ],
+      "bookNumber" : "41",
+      "hadithEndNumber" : 2350,
+      "hadithStartNumber" : 2320,
+      "numberOfHadith" : 28
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Distribution of Water"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المساقاة "
+      } ],
+      "bookNumber" : "42",
+      "hadithEndNumber" : 2383,
+      "hadithStartNumber" : 2351,
+      "numberOfHadith" : 31
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Loans, Payment of Loans, Freezing of Property, Bankruptcy"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فى الاستقراض "
+      } ],
+      "bookNumber" : "43",
+      "hadithEndNumber" : 2409,
+      "hadithStartNumber" : 2385,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Khusoomaat"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الخصومات "
+      } ],
+      "bookNumber" : "44",
+      "hadithEndNumber" : 2425,
+      "hadithStartNumber" : 2410,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Lost Things Picked up by Someone (Luqatah)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فى اللقطة "
+      } ],
+      "bookNumber" : "45",
+      "hadithEndNumber" : 2439,
+      "hadithStartNumber" : 2426,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Oppressions"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المظالم"
+      } ],
+      "bookNumber" : "46",
+      "hadithEndNumber" : 2482,
+      "hadithStartNumber" : 2440,
+      "numberOfHadith" : 43
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Partnership"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الشركة "
+      } ],
+      "bookNumber" : "47",
+      "hadithEndNumber" : 2507,
+      "hadithStartNumber" : 2483,
+      "numberOfHadith" : 22
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Mortgaging"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الرهن "
+      } ],
+      "bookNumber" : "48",
+      "hadithEndNumber" : 2515,
+      "hadithStartNumber" : 2508,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Manumission of Slaves"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العتق "
+      } ],
+      "bookNumber" : "49",
+      "hadithEndNumber" : 2559,
+      "hadithStartNumber" : 2517,
+      "numberOfHadith" : 41
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Makaatib"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المكاتب "
+      } ],
+      "bookNumber" : "50",
+      "hadithEndNumber" : 2565,
+      "hadithStartNumber" : 2560,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Gifts"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الهبة وفضلها والتحريض عليها "
+      } ],
+      "bookNumber" : "51",
+      "hadithEndNumber" : 2636,
+      "hadithStartNumber" : 2566,
+      "numberOfHadith" : 68
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Witnesses"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الشهادات "
+      } ],
+      "bookNumber" : "52",
+      "hadithEndNumber" : 2689,
+      "hadithStartNumber" : 2637,
+      "numberOfHadith" : 50
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Peacemaking"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصلح"
+      } ],
+      "bookNumber" : "53",
+      "hadithEndNumber" : 2710,
+      "hadithStartNumber" : 2690,
+      "numberOfHadith" : 20
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Conditions"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الشروط "
+      } ],
+      "bookNumber" : "54",
+      "hadithEndNumber" : 2737,
+      "hadithStartNumber" : 2711,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Wills and Testaments (Wasaayaa)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الوصايا "
+      } ],
+      "bookNumber" : "55",
+      "hadithEndNumber" : 2781,
+      "hadithStartNumber" : 2738,
+      "numberOfHadith" : 44
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Fighting for the Cause of Allah (Jihaad)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجهاد والسير "
+      } ],
+      "bookNumber" : "56",
+      "hadithEndNumber" : 3090,
+      "hadithStartNumber" : 2782,
+      "numberOfHadith" : 294
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "One-fifth of Booty to the Cause of Allah (Khumus)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فرض الخمس "
+      } ],
+      "bookNumber" : "57",
+      "hadithEndNumber" : 3155,
+      "hadithStartNumber" : 3091,
+      "numberOfHadith" : 63
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Jizyah and Mawaada'ah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجزية والموادعة "
+      } ],
+      "bookNumber" : "58",
+      "hadithEndNumber" : 3189,
+      "hadithStartNumber" : 3156,
+      "numberOfHadith" : 30
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Beginning of Creation"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب بدء الخلق "
+      } ],
+      "bookNumber" : "59",
+      "hadithEndNumber" : 3325,
+      "hadithStartNumber" : 3190,
+      "numberOfHadith" : 131
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prophets"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب أحاديث الأنبياء "
+      } ],
+      "bookNumber" : "60",
+      "hadithEndNumber" : 3488,
+      "hadithStartNumber" : 3326,
+      "numberOfHadith" : 154
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Virtues and Merits of the Prophet (pbuh) and his Companions"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المناقب "
+      } ],
+      "bookNumber" : "61",
+      "hadithEndNumber" : 3648,
+      "hadithStartNumber" : 3489,
+      "numberOfHadith" : 151
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Companions of the Prophet"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فضائل أصحاب النبى صلى الله عليه وسلم "
+      } ],
+      "bookNumber" : "62",
+      "hadithEndNumber" : 3775,
+      "hadithStartNumber" : 3649,
+      "numberOfHadith" : 120
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Merits of the Helpers in Madinah (Ansaar)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب مناقب الأنصار "
+      } ],
+      "bookNumber" : "63",
+      "hadithEndNumber" : 3948,
+      "hadithStartNumber" : 3776,
+      "numberOfHadith" : 172
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Military Expeditions led by the Prophet (pbuh) (Al-Maghaazi)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المغازى "
+      } ],
+      "bookNumber" : "64",
+      "hadithEndNumber" : 4473,
+      "hadithStartNumber" : 3949,
+      "numberOfHadith" : 488
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prophetic Commentary on the Qur'an (Tafseer of the Prophet (pbuh))"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التفسير "
+      } ],
+      "bookNumber" : "65",
+      "hadithEndNumber" : 4977,
+      "hadithStartNumber" : 4474,
+      "numberOfHadith" : 499
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Virtues of the Qur'an"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فضائل القرآن "
+      } ],
+      "bookNumber" : "66",
+      "hadithEndNumber" : 5062,
+      "hadithStartNumber" : 4978,
+      "numberOfHadith" : 87
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Wedlock, Marriage (Nikaah)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب النكاح "
+      } ],
+      "bookNumber" : "67",
+      "hadithEndNumber" : 5250,
+      "hadithStartNumber" : 5063,
+      "numberOfHadith" : 183
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Divorce"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الطلاق "
+      } ],
+      "bookNumber" : "68",
+      "hadithEndNumber" : 5350,
+      "hadithStartNumber" : 5251,
+      "numberOfHadith" : 95
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Supporting the Family"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب النفقات "
+      } ],
+      "bookNumber" : "69",
+      "hadithEndNumber" : 5372,
+      "hadithStartNumber" : 5351,
+      "numberOfHadith" : 22
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Food, Meals"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأطعمة "
+      } ],
+      "bookNumber" : "70",
+      "hadithEndNumber" : 5466,
+      "hadithStartNumber" : 5373,
+      "numberOfHadith" : 95
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sacrifice on Occasion of Birth (`Aqiqa)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العقيقة "
+      } ],
+      "bookNumber" : "71",
+      "hadithEndNumber" : 5474,
+      "hadithStartNumber" : 5467,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hunting, Slaughtering"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الذبائح والصيد "
+      } ],
+      "bookNumber" : "72",
+      "hadithEndNumber" : 5544,
+      "hadithStartNumber" : 5475,
+      "numberOfHadith" : 69
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Al-Adha Festival Sacrifice (Adaahi)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأضاحي "
+      } ],
+      "bookNumber" : "73",
+      "hadithEndNumber" : 5574,
+      "hadithStartNumber" : 5545,
+      "numberOfHadith" : 30
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Drinks"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأشربة "
+      } ],
+      "bookNumber" : "74",
+      "hadithEndNumber" : 5639,
+      "hadithStartNumber" : 5575,
+      "numberOfHadith" : 65
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Patients"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المرضى "
+      } ],
+      "bookNumber" : "75",
+      "hadithEndNumber" : 5677,
+      "hadithStartNumber" : 5640,
+      "numberOfHadith" : 37
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Medicine"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الطب "
+      } ],
+      "bookNumber" : "76",
+      "hadithEndNumber" : 5782,
+      "hadithStartNumber" : 5678,
+      "numberOfHadith" : 93
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Dress"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب اللباس "
+      } ],
+      "bookNumber" : "77",
+      "hadithEndNumber" : 5969,
+      "hadithStartNumber" : 5783,
+      "numberOfHadith" : 185
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Good Manners and Form (Al-Adab)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأدب "
+      } ],
+      "bookNumber" : "78",
+      "hadithEndNumber" : 6226,
+      "hadithStartNumber" : 5970,
+      "numberOfHadith" : 250
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Asking Permission"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاستئذان "
+      } ],
+      "bookNumber" : "79",
+      "hadithEndNumber" : 6303,
+      "hadithStartNumber" : 6227,
+      "numberOfHadith" : 75
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Invocations"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الدعوات"
+      } ],
+      "bookNumber" : "80",
+      "hadithEndNumber" : 6411,
+      "hadithStartNumber" : 6304,
+      "numberOfHadith" : 106
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "To make the Heart Tender (Ar-Riqaq)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الرقاق"
+      } ],
+      "bookNumber" : "81",
+      "hadithEndNumber" : 6593,
+      "hadithStartNumber" : 6412,
+      "numberOfHadith" : 181
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Divine Will (Al-Qadar)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب القدر "
+      } ],
+      "bookNumber" : "82",
+      "hadithEndNumber" : 6620,
+      "hadithStartNumber" : 6594,
+      "numberOfHadith" : 26
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Oaths and Vows"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأيمان والنذور "
+      } ],
+      "bookNumber" : "83",
+      "hadithEndNumber" : 6707,
+      "hadithStartNumber" : 6621,
+      "numberOfHadith" : 84
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Expiation for Unfulfilled Oaths"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب كفارات الأيمان "
+      } ],
+      "bookNumber" : "84",
+      "hadithEndNumber" : 6722,
+      "hadithStartNumber" : 6708,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Laws of Inheritance (Al-Faraa'id)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الفرائض "
+      } ],
+      "bookNumber" : "85",
+      "hadithEndNumber" : 6771,
+      "hadithStartNumber" : 6723,
+      "numberOfHadith" : 47
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Limits and Punishments set by Allah (Hudood)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحدود "
+      } ],
+      "bookNumber" : "86",
+      "hadithEndNumber" : 6859,
+      "hadithStartNumber" : 6772,
+      "numberOfHadith" : 81
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Blood Money (Ad-Diyat)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الديات "
+      } ],
+      "bookNumber" : "87",
+      "hadithEndNumber" : 6917,
+      "hadithStartNumber" : 6861,
+      "numberOfHadith" : 55
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Apostates"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب استتابة المرتدين والمعاندين وقتالهم "
+      } ],
+      "bookNumber" : "88",
+      "hadithEndNumber" : 6939,
+      "hadithStartNumber" : 6918,
+      "numberOfHadith" : 21
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "(Statements made under) Coercion"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإكراه"
+      } ],
+      "bookNumber" : "89",
+      "hadithEndNumber" : 6952,
+      "hadithStartNumber" : 6940,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Tricks"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحيل "
+      } ],
+      "bookNumber" : "90",
+      "hadithEndNumber" : 6981,
+      "hadithStartNumber" : 6953,
+      "numberOfHadith" : 28
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Interpretation of Dreams"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التعبير "
+      } ],
+      "bookNumber" : "91",
+      "hadithEndNumber" : 7047,
+      "hadithStartNumber" : 6982,
+      "numberOfHadith" : 61
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Afflictions and the End of the World"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الفتن "
+      } ],
+      "bookNumber" : "92",
+      "hadithEndNumber" : 7136,
+      "hadithStartNumber" : 7048,
+      "numberOfHadith" : 83
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Judgments (Ahkaam)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأحكام "
+      } ],
+      "bookNumber" : "93",
+      "hadithEndNumber" : 7225,
+      "hadithStartNumber" : 7137,
+      "numberOfHadith" : 84
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Wishes"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التمنى "
+      } ],
+      "bookNumber" : "94",
+      "hadithEndNumber" : 7245,
+      "hadithStartNumber" : 7226,
+      "numberOfHadith" : 20
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Accepting Information Given by a Truthful Person"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب أخبار الآحاد "
+      } ],
+      "bookNumber" : "95",
+      "hadithEndNumber" : 7267,
+      "hadithStartNumber" : 7246,
+      "numberOfHadith" : 21
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Holding Fast to the Qur'an and Sunnah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاعتصام بالكتاب والسنة "
+      } ],
+      "bookNumber" : "96",
+      "hadithEndNumber" : 7370,
+      "hadithStartNumber" : 7268,
+      "numberOfHadith" : 97
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Oneness, Uniqueness of Allah (Tawheed)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التوحيد "
+      } ],
+      "bookNumber" : "97",
+      "hadithEndNumber" : 7563,
+      "hadithStartNumber" : 7371,
+      "numberOfHadith" : 188
+    } ],
+    "limit" : 100,
+    "total" : 97
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "Sahih al-Bukhari is a collection of hadith compiled by Imam Muhammad al-Bukhari (d. 256 AH/870 AD) (rahimahullah).\r\n\r\nHis collection is recognized by the overwhelming majority of the Muslim world to be the most authentic collection of reports of the <i>Sunnah</i> of the Prophet Muhammad (ﷺ). It contains over 7500 hadith (with repetitions) in 97 books.\r\n\r\nThe translation provided here is by Dr. M. Muhsin Khan.",
+    "title" : "Sahih al-Bukhari"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "Sahih al-Bukhari is a collection of hadith compiled by Imam Muhammad al-Bukhari (d. 256 AH/870 AD) (rahimahullah).\r\n\r\nHis collection is recognized by the overwhelming majority of the Muslim world to be the most authentic collection of reports of the <i>Sunnah</i> of the Prophet Muhammad (ﷺ). It contains over 7500 hadith (with repetitions) in 97 books.\r\n\r\nThe translation provided here is by Dr. M. Muhsin Khan.",
+    "title" : "صحيح البخاري"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "bukhari",
+  "totalAvailableHadith" : 7277,
+  "totalHadith" : 7291
+}
+]

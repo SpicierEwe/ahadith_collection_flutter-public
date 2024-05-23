@@ -1,0 +1,322 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Faith"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإيمان"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 197,
+      "hadithStartNumber" : 2,
+      "numberOfHadith" : 188
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Author's Introduction"
+      }, {
+        "lang" : "ar",
+        "name" : "مقدمة المؤلف"
+      } ],
+      "bookNumber" : "introduction",
+      "hadithEndNumber" : 1,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 1
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Knowledge"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العلم"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 280,
+      "hadithStartNumber" : 198,
+      "numberOfHadith" : 75
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Purification"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الطهارة"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 562,
+      "hadithStartNumber" : 281,
+      "numberOfHadith" : 258
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصلاة"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 1522,
+      "hadithStartNumber" : 564,
+      "numberOfHadith" : 921
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Funerals"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجنائز"
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 1771,
+      "hadithStartNumber" : 1523,
+      "numberOfHadith" : 243
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Zakat"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الزكاة"
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 1955,
+      "hadithStartNumber" : 1772,
+      "numberOfHadith" : 180
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Fasting"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصوم"
+      } ],
+      "bookNumber" : "7",
+      "hadithEndNumber" : 2108,
+      "hadithStartNumber" : 1956,
+      "numberOfHadith" : 148
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Excellent Qualities of the Qur'an"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب فضائل القرآن"
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 2222,
+      "hadithStartNumber" : 2109,
+      "numberOfHadith" : 112
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Supplications"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الدعوات"
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 2504,
+      "hadithStartNumber" : 2223,
+      "numberOfHadith" : 272
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Rites of Pilgrimage"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المناسك"
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 2758,
+      "hadithStartNumber" : 2505,
+      "numberOfHadith" : 246
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Business Transactions"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب البيوع"
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 3040,
+      "hadithStartNumber" : 2759,
+      "numberOfHadith" : 274
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Inheritance and Wills"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الفرائض والوصايا"
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 3078,
+      "hadithStartNumber" : 3041,
+      "numberOfHadith" : 37
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Marriage"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب النكاح"
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 3381,
+      "hadithStartNumber" : 3080,
+      "numberOfHadith" : 293
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Emancipation"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العتق"
+      } ],
+      "bookNumber" : "14",
+      "hadithEndNumber" : 3405,
+      "hadithStartNumber" : 3382,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Oaths and Vows"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإيمان والنذور"
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 3445,
+      "hadithStartNumber" : 3406,
+      "numberOfHadith" : 39
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Retaliation"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب القصاص"
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 3554,
+      "hadithStartNumber" : 3446,
+      "numberOfHadith" : 100
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Prescribed Punishments"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحدود"
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 3660,
+      "hadithStartNumber" : 3555,
+      "numberOfHadith" : 94
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Offices of Commander and Qadi"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإمارة والقضاء"
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 3786,
+      "hadithStartNumber" : 3661,
+      "numberOfHadith" : 121
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Jihad"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجهاد"
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 4063,
+      "hadithStartNumber" : 3787,
+      "numberOfHadith" : 273
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Game and Animals Which May Be Slaughtered"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصيد والذبائح"
+      } ],
+      "bookNumber" : "20",
+      "hadithEndNumber" : 4158,
+      "hadithStartNumber" : 4064,
+      "numberOfHadith" : 93
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Foods"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأطعمة"
+      } ],
+      "bookNumber" : "21",
+      "hadithEndNumber" : 4303,
+      "hadithStartNumber" : 4159,
+      "numberOfHadith" : 135
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Clothing"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب اللباس"
+      } ],
+      "bookNumber" : "22",
+      "hadithEndNumber" : 4513,
+      "hadithStartNumber" : 4304,
+      "numberOfHadith" : 198
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Medicine and Spells"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الطب والرقى"
+      } ],
+      "bookNumber" : "23",
+      "hadithEndNumber" : 4605,
+      "hadithStartNumber" : 4514,
+      "numberOfHadith" : 88
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Visions"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الرؤيا"
+      } ],
+      "bookNumber" : "24",
+      "hadithEndNumber" : 4627,
+      "hadithStartNumber" : 4606,
+      "numberOfHadith" : 20
+    } ],
+    "limit" : 100,
+    "total" : 25
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "Mishkat al-Masabih is a selection of hadith compiled by Imam Khatib at-Tabrizi. Imam at-Tabrizi expanded on an earlier selection of hadith named Masabih as-Sunnah by Imam al-Baghawi. Mishkat al-Masabih contains approximately 6,000 hadith chosen from the Six Books, Musnad Ahmad, and various others. It is a comprehensive selection of hadith that covers almost all aspects of Islamic belief, jurisprudence (<i>fiqh</i>), and virtues. The translation provided here is by James Robson.",
+    "title" : "Mishkat al-Masabih"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "Mishkat al-Masabih is a selection of hadith compiled by Imam Khatib at-Tabrizi. Imam at-Tabrizi expanded on an earlier selection of hadith named Masabih as-Sunnah by Imam al-Baghawi. Mishkat al-Masabih contains approximately 6,000 hadith chosen from the Six Books, Musnad Ahmad, and various others. It is a comprehensive selection of hadith that covers almost all aspects of Islamic belief, jurisprudence (<i>fiqh</i>), and virtues. The translation provided here is by James Robson.",
+    "title" : "مشكاة المصابيح"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "mishkat",
+  "totalAvailableHadith" : 4433,
+  "totalHadith" : 6285
+}
+]

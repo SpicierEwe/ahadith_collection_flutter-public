@@ -1,0 +1,82 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Purification"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الطهارة"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 150,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 179
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Funerals"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجنائز"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 597,
+      "hadithStartNumber" : 532,
+      "numberOfHadith" : 66
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hajj"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحج"
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 782,
+      "hadithStartNumber" : 708,
+      "numberOfHadith" : 74
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Oaths and Vows"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأيمان والنذور "
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 1396,
+      "hadithStartNumber" : 1374,
+      "numberOfHadith" : 23
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Judgments"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب القضاء "
+      } ],
+      "bookNumber" : "14",
+      "hadithEndNumber" : 1432,
+      "hadithStartNumber" : 1397,
+      "numberOfHadith" : 36
+    } ],
+    "limit" : 100,
+    "total" : 5
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "",
+    "title" : "Bulugh al-Maram"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "",
+    "title" : "بلوغ المرام"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "bulugh",
+  "totalAvailableHadith" : 1767,
+  "totalHadith" : 1582
+}
+]

@@ -1,0 +1,706 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Noble Features Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في خلق رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 15,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Seal Of Nubuwwah (Prophethood) Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في خاتم النبوة"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 23,
+      "hadithStartNumber" : 16,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Mubarak Hair Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "-باب ما جاء في شعر رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 31,
+      "hadithStartNumber" : 24,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Combing Of The Hair Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في ترجل رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 36,
+      "hadithStartNumber" : 32,
+      "numberOfHadith" : 5
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Appearing Of The White Hair Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في شيب رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 44,
+      "hadithStartNumber" : 37,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Rasoolullah Using a Dye"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في خضاب رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 49,
+      "hadithStartNumber" : 45,
+      "numberOfHadith" : 5
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Kuhl Of Rasoolullah "
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في كُحل رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "7",
+      "hadithEndNumber" : 54,
+      "hadithStartNumber" : 50,
+      "numberOfHadith" : 5
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Standard of Living of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في عيش رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "-8",
+      "hadithEndNumber" : 369,
+      "hadithStartNumber" : 368,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Dressing Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في لباس رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 71,
+      "hadithStartNumber" : 55,
+      "numberOfHadith" : 16
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Khuff (Leather Socks) Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في خف رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 73,
+      "hadithStartNumber" : 72,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Shoes Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في نعل رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 85,
+      "hadithStartNumber" : 74,
+      "numberOfHadith" : 11
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Mubarak Ring Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في ذكر خاتم رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 93,
+      "hadithStartNumber" : 86,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Stating That Rasoolullah Wore The Ring On His Right Hand"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في تختم رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 103,
+      "hadithStartNumber" : 94,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Sword Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في صفة سَيْفِ رَسُولِ اللهِ صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 107,
+      "hadithStartNumber" : 104,
+      "numberOfHadith" : 4
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Armor Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في صفة درع رَسُولِ اللهِصلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "14",
+      "hadithEndNumber" : 110,
+      "hadithStartNumber" : 109,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Helmet Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة مغفر رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 112,
+      "hadithStartNumber" : 111,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Turban Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في عمامة رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 117,
+      "hadithStartNumber" : 113,
+      "numberOfHadith" : 5
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Lungi Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة إزار رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 121,
+      "hadithStartNumber" : 118,
+      "numberOfHadith" : 4
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Walking Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في مشية رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 124,
+      "hadithStartNumber" : 122,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Qinaa Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في تقنع رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 125,
+      "hadithStartNumber" : 125,
+      "numberOfHadith" : 1
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Sitting Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في جلسته صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "20",
+      "hadithEndNumber" : 128,
+      "hadithStartNumber" : 126,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Pillow Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في تكأة رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "21",
+      "hadithEndNumber" : 133,
+      "hadithStartNumber" : 129,
+      "numberOfHadith" : 5
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Rasoolullah Leaning On Something Other Than a Pillow"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في اتكاء رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "22",
+      "hadithEndNumber" : 135,
+      "hadithStartNumber" : 134,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Description Of The Eating Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في أكل رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "23",
+      "hadithEndNumber" : 141,
+      "hadithStartNumber" : 136,
+      "numberOfHadith" : 5
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Bread Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة خبز رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "24",
+      "hadithEndNumber" : 149,
+      "hadithStartNumber" : 142,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "What Rasoolullah Would Eat with Bread"
+      }, {
+        "lang" : "ar",
+        "name" : "ما جاء في إدام رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "25",
+      "hadithEndNumber" : 183,
+      "hadithStartNumber" : 150,
+      "numberOfHadith" : 34
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Rasoolullah Performing Wudu At The Time Of Eating"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة وضوء رسول الله صلى الله عليه وسلم عند الطعام"
+      } ],
+      "bookNumber" : "26",
+      "hadithEndNumber" : 186,
+      "hadithStartNumber" : 184,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Words That Of Rasoolullah Said Before and After Eating"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في قول رسول الله صلى الله عليه وسلم قبل الطعام وعند الفراغ منه"
+      } ],
+      "bookNumber" : "27",
+      "hadithEndNumber" : 193,
+      "hadithStartNumber" : 187,
+      "numberOfHadith" : 7
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Cup Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في قدح رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "28",
+      "hadithEndNumber" : 195,
+      "hadithStartNumber" : 194,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Fruits Eaten By Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة فاكهة رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "29",
+      "hadithEndNumber" : 202,
+      "hadithStartNumber" : 196,
+      "numberOfHadith" : 7
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Description Of The Things Rasoolullah Drank"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة شراب رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "30",
+      "hadithEndNumber" : 204,
+      "hadithStartNumber" : 203,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hadith Describing The Manner Rasoolullah Drank"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في شرب رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "31",
+      "hadithEndNumber" : 214,
+      "hadithStartNumber" : 205,
+      "numberOfHadith" : 10
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Rasoolullah Using 'Itr"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في تعطررسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "32",
+      "hadithEndNumber" : 221,
+      "hadithStartNumber" : 215,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Speech Of rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب كيف كان كلام رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "33",
+      "hadithEndNumber" : 224,
+      "hadithStartNumber" : 222,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Laughing Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في ضحك رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "34",
+      "hadithEndNumber" : 233,
+      "hadithStartNumber" : 225,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Description Of The Joking Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة مزاح رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "35",
+      "hadithEndNumber" : 239,
+      "hadithStartNumber" : 234,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Description Of The Saying Of Rasoolullah On Poetry"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في صفة كلام رسول الله صلى الله عليه وسلم في الشعر"
+      } ],
+      "bookNumber" : "36",
+      "hadithEndNumber" : 249,
+      "hadithStartNumber" : 240,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Story Telling Of Rasoolullah At Night"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في كلام رسول الله صلى الله عليه وسلم في السمر"
+      } ],
+      "bookNumber" : "37",
+      "hadithEndNumber" : 251,
+      "hadithStartNumber" : 251,
+      "numberOfHadith" : 1
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hadith of Umm Zar`"
+      }, {
+        "lang" : "ar",
+        "name" : "حديث أم زرع"
+      } ],
+      "bookNumber" : "38",
+      "hadithEndNumber" : 252,
+      "hadithStartNumber" : 252,
+      "numberOfHadith" : 1
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Sleeping Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب في صفة نوم رسول الله صلى الله عليه وسلم في السمر"
+      } ],
+      "bookNumber" : "39",
+      "hadithEndNumber" : 259,
+      "hadithStartNumber" : 253,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Worship And Devotion Of Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ما جاء في عبادة النبي صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "40",
+      "hadithEndNumber" : 286,
+      "hadithStartNumber" : 260,
+      "numberOfHadith" : 25
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Salaatut Duha (Chaast Prayers)"
+      }, {
+        "lang" : "ar",
+        "name" : "باب صلاة الضحى"
+      } ],
+      "bookNumber" : "41",
+      "hadithEndNumber" : 295,
+      "hadithStartNumber" : 287,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sayyidina Rasoolullah Performing Nawaafil At Home"
+      }, {
+        "lang" : "ar",
+        "name" : "باب صلاة التطوع في البيت"
+      } ],
+      "bookNumber" : "42",
+      "hadithEndNumber" : 296,
+      "hadithStartNumber" : 296,
+      "numberOfHadith" : 1
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Fasting Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في صوم رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "43",
+      "hadithEndNumber" : 312,
+      "hadithStartNumber" : 297,
+      "numberOfHadith" : 16
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Recital Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في قراءة رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "44",
+      "hadithEndNumber" : 320,
+      "hadithStartNumber" : 313,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Weeping Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في بكاء رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "45",
+      "hadithEndNumber" : 326,
+      "hadithStartNumber" : 321,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Narrations Of The Bed Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في فراش رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "46",
+      "hadithEndNumber" : 328,
+      "hadithStartNumber" : 327,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Humbleness Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في تواضع رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "47",
+      "hadithEndNumber" : 341,
+      "hadithStartNumber" : 329,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Noble Character And Habits Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في خلق رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "48",
+      "hadithEndNumber" : 356,
+      "hadithStartNumber" : 342,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Modesty Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في حياء رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "49",
+      "hadithEndNumber" : 358,
+      "hadithStartNumber" : 357,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Hajaamah (Cupping-Cautering) Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في حجامة رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "50",
+      "hadithEndNumber" : 364,
+      "hadithStartNumber" : 359,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Names Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في أسماء رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "51",
+      "hadithEndNumber" : 366,
+      "hadithStartNumber" : 365,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Living Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في عيش رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "52",
+      "hadithEndNumber" : 378,
+      "hadithStartNumber" : 370,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Noble Age Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في سن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "53",
+      "hadithEndNumber" : 384,
+      "hadithStartNumber" : 379,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Death Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في وفاة رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "54",
+      "hadithEndNumber" : 399,
+      "hadithStartNumber" : 386,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Legacy Of Sayyidina Rasoolullah"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في ميراث رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "55",
+      "hadithEndNumber" : 406,
+      "hadithStartNumber" : 400,
+      "numberOfHadith" : 7
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Seeing Of Rasoolullah In a Dream"
+      }, {
+        "lang" : "ar",
+        "name" : "باب ماجاء في رؤية رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "56",
+      "hadithEndNumber" : 417,
+      "hadithStartNumber" : 407,
+      "numberOfHadith" : 11
+    } ],
+    "limit" : 100,
+    "total" : 57
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "",
+    "title" : "Ash-Shama'il Al-Muhammadiyah"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "",
+    "title" : "الشمائل المحمدية"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : false,
+  "name" : "shamail",
+  "totalAvailableHadith" : 402,
+  "totalHadith" : 398
+}
+]

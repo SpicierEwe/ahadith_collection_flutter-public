@@ -1,0 +1,262 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Miscellany"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المقدمات"
+      } ],
+      "bookNumber" : "introduction",
+      "hadithEndNumber" : 679,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 679
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Good Manners"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأدب"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 726,
+      "hadithStartNumber" : 680,
+      "numberOfHadith" : 47
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book About the Etiquette of Eating"
+      }, {
+        "lang" : "ar",
+        "name" : "كتـــــاب أدب الطعام"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 777,
+      "hadithStartNumber" : 727,
+      "numberOfHadith" : 51
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Dress"
+      }, {
+        "lang" : "ar",
+        "name" : "كتــــاب اللباس"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 812,
+      "hadithStartNumber" : 778,
+      "numberOfHadith" : 35
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Etiquette of Sleeping, Lying and Sitting etc"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب آداب النوم"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 843,
+      "hadithStartNumber" : 813,
+      "numberOfHadith" : 31
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Greetings"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب السلام"
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 893,
+      "hadithStartNumber" : 844,
+      "numberOfHadith" : 50
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Visiting the Sick"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب عيادة المريض وتشييع الميت والصلاة عليه وحضور دفنه"
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 955,
+      "hadithStartNumber" : 894,
+      "numberOfHadith" : 62
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Etiquette of Traveling"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب آداب السفر"
+      } ],
+      "bookNumber" : "7",
+      "hadithEndNumber" : 990,
+      "hadithStartNumber" : 956,
+      "numberOfHadith" : 35
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Virtues"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الفضائل"
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 1267,
+      "hadithStartNumber" : 991,
+      "numberOfHadith" : 277
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of I'tikaf"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاعتكاف"
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 1270,
+      "hadithStartNumber" : 1268,
+      "numberOfHadith" : 3
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Hajj"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحج"
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 1284,
+      "hadithStartNumber" : 1271,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Jihad"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الجهاد"
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 1375,
+      "hadithStartNumber" : 1285,
+      "numberOfHadith" : 91
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Knowledge"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب العلم"
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 1392,
+      "hadithStartNumber" : 1376,
+      "numberOfHadith" : 17
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Praise and Gratitude to Allah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب حمد الله تعالى وشكره"
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 1396,
+      "hadithStartNumber" : 1393,
+      "numberOfHadith" : 4
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Supplicating Allah to Exalt the Mention of Allah's Messenger"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصلاة على رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "14",
+      "hadithEndNumber" : 1407,
+      "hadithStartNumber" : 1397,
+      "numberOfHadith" : 11
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Remembrance of Allah"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأذكار"
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 1464,
+      "hadithStartNumber" : 1408,
+      "numberOfHadith" : 57
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Du'a (Supplications)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الدعوات"
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 1510,
+      "hadithStartNumber" : 1465,
+      "numberOfHadith" : 46
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Prohibited actions"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأمور المنهي عنها"
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 1807,
+      "hadithStartNumber" : 1511,
+      "numberOfHadith" : 297
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Miscellaneous ahadith of Significant Values"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المنثورات والملح"
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 1868,
+      "hadithStartNumber" : 1808,
+      "numberOfHadith" : 61
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Forgiveness"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاستغفار "
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 1896,
+      "hadithStartNumber" : 1869,
+      "numberOfHadith" : 28
+    } ],
+    "limit" : 100,
+    "total" : 20
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "Riyad as-Salihin is a selection of hadith compiled by Imam Yahya ibn Sharaf an-Nawawi. It is one of the most widely known and read books of hadith all over the world, containing approximately 1,900 carefully chosen hadith on ethics, manners, worship, knowledge, and other topics compiled from the Six Books of hadith. It is practical and accessible to Muslims of all levels.",
+    "title" : "Riyad as-Salihin"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "Riyad as-Salihin is a selection of hadith compiled by Imam Yahya ibn Sharaf an-Nawawi. It is one of the most widely known and read books of hadith all over the world, containing approximately 1,900 carefully chosen hadith on ethics, manners, worship, knowledge, and other topics compiled from the Six Books of hadith. It is practical and accessible to Muslims of all levels.",
+    "title" : "رياض الصالحين "
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "riyadussalihin",
+  "totalAvailableHadith" : 1896,
+  "totalHadith" : 1895
+}
+]

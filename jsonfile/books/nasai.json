@@ -1,0 +1,598 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Water"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب المياه"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 347,
+      "hadithStartNumber" : 325,
+      "numberOfHadith" : 23
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Menstruation and Istihadah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الحيض والاستحاضة"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 395,
+      "hadithStartNumber" : 348,
+      "numberOfHadith" : 48
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Ghusl and Tayammum"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الغسل والتيمم"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 447,
+      "hadithStartNumber" : 396,
+      "numberOfHadith" : 53
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Salah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الصلاة"
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 493,
+      "hadithStartNumber" : 448,
+      "numberOfHadith" : 46
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Masjids"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب المساجد"
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 741,
+      "hadithStartNumber" : 688,
+      "numberOfHadith" : 54
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Qiblah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب القبلة"
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 776,
+      "hadithStartNumber" : 742,
+      "numberOfHadith" : 35
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Leading the Prayer (Al-Imamah)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الإمامة"
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 875,
+      "hadithStartNumber" : 777,
+      "numberOfHadith" : 99
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Commencement of the Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الافتتاح"
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 1028,
+      "hadithStartNumber" : 876,
+      "numberOfHadith" : 153
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of The At-Tatbiq (Clasping One's Hands Together)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب التطبيق"
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 1178,
+      "hadithStartNumber" : 1029,
+      "numberOfHadith" : 150
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Forgetfulness (In Prayer)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب السهو"
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 1366,
+      "hadithStartNumber" : 1179,
+      "numberOfHadith" : 188
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Shortening the Prayer When Traveling"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب تقصير الصلاة فى السفر"
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 1458,
+      "hadithStartNumber" : 1433,
+      "numberOfHadith" : 26
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Eclipses"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الكسوف "
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 1503,
+      "hadithStartNumber" : 1459,
+      "numberOfHadith" : 45
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Praying for Rain (Al-Istisqa')"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الاستسقاء"
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 1528,
+      "hadithStartNumber" : 1504,
+      "numberOfHadith" : 25
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Fear Prayer"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب صلاة الخوف"
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 1555,
+      "hadithStartNumber" : 1529,
+      "numberOfHadith" : 27
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Prayer for the Two 'Eids"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب صلاة العيدين"
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 1597,
+      "hadithStartNumber" : 1556,
+      "numberOfHadith" : 42
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Qiyam Al-Lail (The Night Prayer) and Voluntary Prayers During the Day"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب قيام الليل وتطوع النهار"
+      } ],
+      "bookNumber" : "20",
+      "hadithEndNumber" : 1817,
+      "hadithStartNumber" : 1598,
+      "numberOfHadith" : 220
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Funerals"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الجنائز"
+      } ],
+      "bookNumber" : "21",
+      "hadithEndNumber" : 2089,
+      "hadithStartNumber" : 1818,
+      "numberOfHadith" : 272
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Fasting"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الصيام"
+      } ],
+      "bookNumber" : "22",
+      "hadithEndNumber" : 2434,
+      "hadithStartNumber" : 2090,
+      "numberOfHadith" : 345
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Zakah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الزكاة"
+      } ],
+      "bookNumber" : "23",
+      "hadithEndNumber" : 2618,
+      "hadithStartNumber" : 2435,
+      "numberOfHadith" : 184
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Hajj"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب مناسك الحج"
+      } ],
+      "bookNumber" : "24",
+      "hadithEndNumber" : 3084,
+      "hadithStartNumber" : 2619,
+      "numberOfHadith" : 467
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Jihad"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الجهاد"
+      } ],
+      "bookNumber" : "25",
+      "hadithEndNumber" : 3195,
+      "hadithStartNumber" : 3085,
+      "numberOfHadith" : 111
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Marriage"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب النكاح"
+      } ],
+      "bookNumber" : "26",
+      "hadithEndNumber" : 3388,
+      "hadithStartNumber" : 3196,
+      "numberOfHadith" : 193
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Divorce"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الطلاق"
+      } ],
+      "bookNumber" : "27",
+      "hadithEndNumber" : 3560,
+      "hadithStartNumber" : 3389,
+      "numberOfHadith" : 174
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Horses, Races and Shooting"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الخيل"
+      } ],
+      "bookNumber" : "28",
+      "hadithEndNumber" : 3593,
+      "hadithStartNumber" : 3561,
+      "numberOfHadith" : 33
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Endowments"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الإحباس"
+      } ],
+      "bookNumber" : "29",
+      "hadithEndNumber" : 3610,
+      "hadithStartNumber" : 3594,
+      "numberOfHadith" : 17
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Wills"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الوصايا"
+      } ],
+      "bookNumber" : "30",
+      "hadithEndNumber" : 3671,
+      "hadithStartNumber" : 3611,
+      "numberOfHadith" : 61
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Presents"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب النحل"
+      } ],
+      "bookNumber" : "31",
+      "hadithEndNumber" : 3687,
+      "hadithStartNumber" : 3672,
+      "numberOfHadith" : 16
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Gifts"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الهبة"
+      } ],
+      "bookNumber" : "32",
+      "hadithEndNumber" : 3705,
+      "hadithStartNumber" : 3688,
+      "numberOfHadith" : 18
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of ar-Ruqba"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الرقبى"
+      } ],
+      "bookNumber" : "33",
+      "hadithEndNumber" : 3719,
+      "hadithStartNumber" : 3706,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of 'Umra"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب العمرى"
+      } ],
+      "bookNumber" : "34",
+      "hadithEndNumber" : 3760,
+      "hadithStartNumber" : 3720,
+      "numberOfHadith" : 42
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Agriculture"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب المزارعة"
+      } ],
+      "bookNumber" : "35b",
+      "hadithEndNumber" : 3938,
+      "hadithStartNumber" : 3857,
+      "numberOfHadith" : 83
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Oaths and Vows"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الأيمان والنذور"
+      } ],
+      "bookNumber" : "35",
+      "hadithEndNumber" : 3856,
+      "hadithStartNumber" : 3761,
+      "numberOfHadith" : 96
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Kind Treatment of Women"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب عشرة النساء"
+      } ],
+      "bookNumber" : "36",
+      "hadithEndNumber" : 3965,
+      "hadithStartNumber" : 3939,
+      "numberOfHadith" : 27
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Fighting [The Prohibition of Bloodshed]"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب تحريم الدم"
+      } ],
+      "bookNumber" : "37",
+      "hadithEndNumber" : 4132,
+      "hadithStartNumber" : 3966,
+      "numberOfHadith" : 167
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Distribution of Al-Fay'"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب قسم الفىء"
+      } ],
+      "bookNumber" : "38",
+      "hadithEndNumber" : 4148,
+      "hadithStartNumber" : 4133,
+      "numberOfHadith" : 16
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of al-Bay'ah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب البيعة"
+      } ],
+      "bookNumber" : "39",
+      "hadithEndNumber" : 4211,
+      "hadithStartNumber" : 4149,
+      "numberOfHadith" : 63
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of al-'Aqiqah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب العقيقة"
+      } ],
+      "bookNumber" : "40",
+      "hadithEndNumber" : 4221,
+      "hadithStartNumber" : 4212,
+      "numberOfHadith" : 10
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of al-Fara' and al-'Atirah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الفرع والعتيرة"
+      } ],
+      "bookNumber" : "41",
+      "hadithEndNumber" : 4262,
+      "hadithStartNumber" : 4222,
+      "numberOfHadith" : 41
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Hunting and Slaughtering"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الصيد والذبائح"
+      } ],
+      "bookNumber" : "42",
+      "hadithEndNumber" : 4360,
+      "hadithStartNumber" : 4263,
+      "numberOfHadith" : 98
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of ad-Dahaya (Sacrifices)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الضحايا"
+      } ],
+      "bookNumber" : "43",
+      "hadithEndNumber" : 4448,
+      "hadithStartNumber" : 4361,
+      "numberOfHadith" : 88
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Financial Transactions"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب البيوع"
+      } ],
+      "bookNumber" : "44",
+      "hadithEndNumber" : 4705,
+      "hadithStartNumber" : 4449,
+      "numberOfHadith" : 257
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Oaths (qasamah), Retaliation and Blood Money"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب القسامة"
+      } ],
+      "bookNumber" : "45",
+      "hadithEndNumber" : 4869,
+      "hadithStartNumber" : 4706,
+      "numberOfHadith" : 164
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Cutting off the Hand of the Thief"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب قطع السارق"
+      } ],
+      "bookNumber" : "46",
+      "hadithEndNumber" : 4984,
+      "hadithStartNumber" : 4870,
+      "numberOfHadith" : 114
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book Of Faith and its Signs"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الإيمان وشرائعه"
+      } ],
+      "bookNumber" : "47",
+      "hadithEndNumber" : 5039,
+      "hadithStartNumber" : 4985,
+      "numberOfHadith" : 55
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Adornment"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الزينة من السنن"
+      } ],
+      "bookNumber" : "48",
+      "hadithEndNumber" : 5378,
+      "hadithStartNumber" : 5040,
+      "numberOfHadith" : 339
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of the Etiquette of Judges"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب آداب القضاة"
+      } ],
+      "bookNumber" : "49",
+      "hadithEndNumber" : 5427,
+      "hadithStartNumber" : 5379,
+      "numberOfHadith" : 49
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Seeking Refuge with Allah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الاستعاذة"
+      } ],
+      "bookNumber" : "50",
+      "hadithEndNumber" : 5539,
+      "hadithStartNumber" : 5428,
+      "numberOfHadith" : 112
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book of Drinks"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الأشربة "
+      } ],
+      "bookNumber" : "51",
+      "hadithEndNumber" : 5758,
+      "hadithStartNumber" : 5540,
+      "numberOfHadith" : 220
+    } ],
+    "limit" : 100,
+    "total" : 48
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "Sunan an-Nasa'i is a collection of hadith compiled by Imam Ahmad an-Nasa'i (rahimahullah).\r\nHis collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah)\r\nof the Sunnah of the Prophet (ﷺ).\r\nIt contains roughly 5700 hadith (with repetitions) in 52 books.\r\n",
+    "title" : "Sunan an-Nasa'i"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "Sunan an-Nasa'i is a collection of hadith compiled by Imam Ahmad an-Nasa'i (rahimahullah).\r\nHis collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah)\r\nof the Sunnah of the Prophet (ﷺ).\r\nIt contains roughly 5700 hadith (with repetitions) in 52 books.\r\n",
+    "title" : "سنن النسائي"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "nasai",
+  "totalAvailableHadith" : 5768,
+  "totalHadith" : 5766
+}
+]

@@ -1,0 +1,58 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Forty Hadith of an-Nawawi"
+      }, {
+        "lang" : "ar",
+        "name" : "الأربعون النووية"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 42,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 42
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Forty Hadith Qudsi"
+      }, {
+        "lang" : "ar",
+        "name" : "الحديث القدسي"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 40,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 40
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Forty Hadith of Shah Waliullah Dehlawi"
+      }, {
+        "lang" : "ar",
+        "name" : "أربعون شاه ولي الله الدهلوي"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 40,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 40
+    } ],
+    "limit" : 100,
+    "total" : 3
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "",
+    "title" : "Collections of Forty"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "",
+    "title" : "الأربعينات"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : false,
+  "name" : "forty",
+  "totalAvailableHadith" : 122,
+  "totalHadith" : 0
+}
+]

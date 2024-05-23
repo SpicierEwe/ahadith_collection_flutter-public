@@ -1,0 +1,8 @@
+[{
+  "books" : {
+    "limit" : 100,
+    "total" : 0
+  },
+  "message" : "Too Many Requests"
+}
+]

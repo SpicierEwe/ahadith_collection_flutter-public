@@ -1,0 +1,622 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Parents"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْوَالِدَيْنِ"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 46,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 46
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Ties of Kinship"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب صِلَةِ الرَّحِمِ"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 73,
+      "hadithStartNumber" : 47,
+      "numberOfHadith" : 27
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Mawlas (Clients of Manumission)"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب مَوَالِي"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 75,
+      "hadithStartNumber" : 74,
+      "numberOfHadith" : 2
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Looking after girls"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب عول البنات"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 83,
+      "hadithStartNumber" : 76,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Looking after children"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب رعاية الأولاد"
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 100,
+      "hadithStartNumber" : 84,
+      "numberOfHadith" : 17
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Neighbours"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْجَارِ"
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 128,
+      "hadithStartNumber" : 101,
+      "numberOfHadith" : 28
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Generosity and Orphans"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْكَرَمِ وَ يَتِيمٌ"
+      } ],
+      "bookNumber" : "7",
+      "hadithEndNumber" : 142,
+      "hadithStartNumber" : 129,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Children's Death"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب موت الأولاد"
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 155,
+      "hadithStartNumber" : 143,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Being a master"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الملكة"
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 211,
+      "hadithStartNumber" : 156,
+      "numberOfHadith" : 56
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Supervision"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الرعاية"
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 220,
+      "hadithStartNumber" : 212,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Good Conduct"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْمَعْرُوفِ"
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 237,
+      "hadithStartNumber" : 221,
+      "numberOfHadith" : 17
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Cheerfulness Towards People"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الِانْبِسَاطِ إِلَى النَّاسِ"
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 255,
+      "hadithStartNumber" : 238,
+      "numberOfHadith" : 18
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Consultation"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْمَشُورَةِ"
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 259,
+      "hadithStartNumber" : 256,
+      "numberOfHadith" : 4
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Cursing"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب اللعن"
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 332,
+      "hadithStartNumber" : 309,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Praise"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب المدح"
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 343,
+      "hadithStartNumber" : 333,
+      "numberOfHadith" : 11
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Visitation"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الزِّيَارَةِ"
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 352,
+      "hadithStartNumber" : 344,
+      "numberOfHadith" : 10
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Elderly"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأكَابِرِ"
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 361,
+      "hadithStartNumber" : 353,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Children"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصَّغِيرِ"
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 371,
+      "hadithStartNumber" : 362,
+      "numberOfHadith" : 10
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Mercy"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب رَحْمَةِ"
+      } ],
+      "bookNumber" : "20",
+      "hadithEndNumber" : 384,
+      "hadithStartNumber" : 372,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Social Behaviour"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب ذات البين"
+      } ],
+      "bookNumber" : "21",
+      "hadithEndNumber" : 396,
+      "hadithStartNumber" : 385,
+      "numberOfHadith" : 12
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Abandonment"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الهجر"
+      } ],
+      "bookNumber" : "22",
+      "hadithEndNumber" : 414,
+      "hadithStartNumber" : 397,
+      "numberOfHadith" : 18
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Advising"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الإشارة"
+      } ],
+      "bookNumber" : "23",
+      "hadithEndNumber" : 418,
+      "hadithStartNumber" : 415,
+      "numberOfHadith" : 4
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Disparaging"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب السِّبَابِ"
+      } ],
+      "bookNumber" : "24",
+      "hadithEndNumber" : 441,
+      "hadithStartNumber" : 419,
+      "numberOfHadith" : 23
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Extravagance in Building"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب السَّرَفِ فِي  الْبِنَاءِ"
+      } ],
+      "bookNumber" : "25",
+      "hadithEndNumber" : 461,
+      "hadithStartNumber" : 442,
+      "numberOfHadith" : 20
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Compassion"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الرِّفْقِ"
+      } ],
+      "bookNumber" : "26",
+      "hadithEndNumber" : 474,
+      "hadithStartNumber" : 462,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Injustice"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الظُّلْم"
+      } ],
+      "bookNumber" : "28",
+      "hadithEndNumber" : 490,
+      "hadithStartNumber" : 483,
+      "numberOfHadith" : 8
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Visiting the Ill"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب عيادة المرضى"
+      } ],
+      "bookNumber" : "29",
+      "hadithEndNumber" : 537,
+      "hadithStartNumber" : 491,
+      "numberOfHadith" : 47
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "General Behavior"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب التصرف العام"
+      } ],
+      "bookNumber" : "30",
+      "hadithEndNumber" : 603,
+      "hadithStartNumber" : 538,
+      "numberOfHadith" : 66
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Supplication"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الدعاء"
+      } ],
+      "bookNumber" : "31",
+      "hadithEndNumber" : 738,
+      "hadithStartNumber" : 604,
+      "numberOfHadith" : 135
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Guests and Spending"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الضيف والنفقة"
+      } ],
+      "bookNumber" : "32",
+      "hadithEndNumber" : 753,
+      "hadithStartNumber" : 739,
+      "numberOfHadith" : 15
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sayings"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأقوال"
+      } ],
+      "bookNumber" : "33",
+      "hadithEndNumber" : 810,
+      "hadithStartNumber" : 754,
+      "numberOfHadith" : 57
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Names"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الأسْمَاءِ"
+      } ],
+      "bookNumber" : "34",
+      "hadithEndNumber" : 841,
+      "hadithStartNumber" : 811,
+      "numberOfHadith" : 31
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Kunyas"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب  الكُنْيَةِ"
+      } ],
+      "bookNumber" : "35",
+      "hadithEndNumber" : 855,
+      "hadithStartNumber" : 842,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Poetry"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الشِّعْرِ"
+      } ],
+      "bookNumber" : "36",
+      "hadithEndNumber" : 874,
+      "hadithStartNumber" : 856,
+      "numberOfHadith" : 19
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Words"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْكَلامِ"
+      } ],
+      "bookNumber" : "37",
+      "hadithEndNumber" : 887,
+      "hadithStartNumber" : 875,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Consequences"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب عاقبة الأمور"
+      } ],
+      "bookNumber" : "38",
+      "hadithEndNumber" : 906,
+      "hadithStartNumber" : 888,
+      "numberOfHadith" : 19
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Omens"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الطيرة"
+      } ],
+      "bookNumber" : "39",
+      "hadithEndNumber" : 918,
+      "hadithStartNumber" : 907,
+      "numberOfHadith" : 12
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sneezing and Yawning"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْعُطَاسَ والتثاؤب"
+      } ],
+      "bookNumber" : "40",
+      "hadithEndNumber" : 951,
+      "hadithStartNumber" : 919,
+      "numberOfHadith" : 33
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Gestures"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الحركات"
+      } ],
+      "bookNumber" : "41",
+      "hadithEndNumber" : 964,
+      "hadithStartNumber" : 952,
+      "numberOfHadith" : 13
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Greetings"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب السَّلامِ"
+      } ],
+      "bookNumber" : "42",
+      "hadithEndNumber" : 1050,
+      "hadithStartNumber" : 965,
+      "numberOfHadith" : 87
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Asking Permission"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الاسْتِئْذَانُ"
+      } ],
+      "bookNumber" : "43",
+      "hadithEndNumber" : 1100,
+      "hadithStartNumber" : 1051,
+      "numberOfHadith" : 50
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The People of the Book"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب أَهْلِ الْكِتَابِ"
+      } ],
+      "bookNumber" : "44",
+      "hadithEndNumber" : 1116,
+      "hadithStartNumber" : 1101,
+      "numberOfHadith" : 16
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Letters"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الرَّسَائِلِ‏"
+      } ],
+      "bookNumber" : "45",
+      "hadithEndNumber" : 1135,
+      "hadithStartNumber" : 1117,
+      "numberOfHadith" : 19
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Gatherings"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْمَجَالِسِ"
+      } ],
+      "bookNumber" : "46",
+      "hadithEndNumber" : 1152,
+      "hadithStartNumber" : 1136,
+      "numberOfHadith" : 17
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Behaviour with people"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب تعامل الناس"
+      } ],
+      "bookNumber" : "47",
+      "hadithEndNumber" : 1174,
+      "hadithStartNumber" : 1153,
+      "numberOfHadith" : 22
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Sitting and lying down"
+      }, {
+        "lang" : "ar",
+        "name" : "باب الجلوس والاستلقاء"
+      } ],
+      "bookNumber" : "48",
+      "hadithEndNumber" : 1198,
+      "hadithStartNumber" : 1175,
+      "numberOfHadith" : 24
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Mornings and evenings"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصباح والمساء"
+      } ],
+      "bookNumber" : "49",
+      "hadithEndNumber" : 1204,
+      "hadithStartNumber" : 1199,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Midday Naps"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْقَائِلَةِ"
+      } ],
+      "bookNumber" : "52",
+      "hadithEndNumber" : 1243,
+      "hadithStartNumber" : 1238,
+      "numberOfHadith" : 6
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Betting and similar pastimes"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب القمار ونحوه"
+      } ],
+      "bookNumber" : "54",
+      "hadithEndNumber" : 1281,
+      "hadithStartNumber" : 1259,
+      "numberOfHadith" : 23
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Anger"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الْغَضَبِ"
+      } ],
+      "bookNumber" : "57",
+      "hadithEndNumber" : 1322,
+      "hadithStartNumber" : 1317,
+      "numberOfHadith" : 7
+    } ],
+    "limit" : 100,
+    "total" : 50
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "",
+    "title" : "Al-Adab Al-Mufrad"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "",
+    "title" : "الأدب المفرد"
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "adab",
+  "totalAvailableHadith" : 1326,
+  "totalHadith" : 1322
+}
+]

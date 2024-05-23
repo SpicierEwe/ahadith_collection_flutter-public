@@ -1,0 +1,46 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Fortress of the Muslim (Hisn al-Muslim)"
+      }, {
+        "lang" : "ar",
+        "name" : "حصن المسلم"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 267,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 268
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Introduction"
+      }, {
+        "lang" : "ar",
+        "name" : "المقدمة"
+      } ],
+      "bookNumber" : "introduction",
+      "hadithEndNumber" : 0,
+      "hadithStartNumber" : 0,
+      "numberOfHadith" : 0
+    } ],
+    "limit" : 100,
+    "total" : 2
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "",
+    "title" : "Hisn al-Muslim"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "",
+    "title" : "حصن المسلم"
+  } ],
+  "hasBooks" : false,
+  "hasChapters" : true,
+  "name" : "hisn",
+  "totalAvailableHadith" : 268,
+  "totalHadith" : 268
+}
+]

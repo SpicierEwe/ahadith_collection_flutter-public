@@ -1,0 +1,550 @@
+[{
+  "books" : {
+    "data" : [ {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Purification"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الطهارة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "1",
+      "hadithEndNumber" : 148,
+      "hadithStartNumber" : 1,
+      "numberOfHadith" : 148
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Salat (Prayer)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الصلاة"
+      } ],
+      "bookNumber" : "2",
+      "hadithEndNumber" : 451,
+      "hadithStartNumber" : 149,
+      "numberOfHadith" : 304
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Al-Witr"
+      }, {
+        "lang" : "ar",
+        "name" : "أَبْوَابُ الْوِتْرِ"
+      } ],
+      "bookNumber" : "3",
+      "hadithEndNumber" : 487,
+      "hadithStartNumber" : 452,
+      "numberOfHadith" : 35
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on the Day of Friday"
+      }, {
+        "lang" : "ar",
+        "name" : "كِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ"
+      } ],
+      "bookNumber" : "4",
+      "hadithEndNumber" : 529,
+      "hadithStartNumber" : 488,
+      "numberOfHadith" : 42
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on the Two Eids"
+      }, {
+        "lang" : "ar",
+        "name" : "أَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ"
+      } ],
+      "bookNumber" : "5",
+      "hadithEndNumber" : 543,
+      "hadithStartNumber" : 530,
+      "numberOfHadith" : 14
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Traveling"
+      }, {
+        "lang" : "ar",
+        "name" : "أَبْوَابُ السَّفَرِ"
+      } ],
+      "bookNumber" : "6",
+      "hadithEndNumber" : 616,
+      "hadithStartNumber" : 544,
+      "numberOfHadith" : 73
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Zakat"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الزكاة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "7",
+      "hadithEndNumber" : 681,
+      "hadithStartNumber" : 617,
+      "numberOfHadith" : 65
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Fasting"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الصوم عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "8",
+      "hadithEndNumber" : 808,
+      "hadithStartNumber" : 682,
+      "numberOfHadith" : 127
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Hajj"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الحج عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "9",
+      "hadithEndNumber" : 964,
+      "hadithStartNumber" : 809,
+      "numberOfHadith" : 158
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Jana''iz (Funerals)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الجنائز عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "10",
+      "hadithEndNumber" : 1079,
+      "hadithStartNumber" : 965,
+      "numberOfHadith" : 115
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Marriage"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب النكاح عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "11",
+      "hadithEndNumber" : 1145,
+      "hadithStartNumber" : 1080,
+      "numberOfHadith" : 67
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Suckling"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الرضاع"
+      } ],
+      "bookNumber" : "12",
+      "hadithEndNumber" : 1174,
+      "hadithStartNumber" : 1146,
+      "numberOfHadith" : 29
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Divorce and Li'an"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "13",
+      "hadithEndNumber" : 1204,
+      "hadithStartNumber" : 1175,
+      "numberOfHadith" : 31
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Business"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب البيوع عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "14",
+      "hadithEndNumber" : 1321,
+      "hadithStartNumber" : 1205,
+      "numberOfHadith" : 125
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Chapters On Judgements From The Messenger of Allah"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الأحكام عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "15",
+      "hadithEndNumber" : 1385,
+      "hadithStartNumber" : 1322,
+      "numberOfHadith" : 66
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Blood Money"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الديات عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "16",
+      "hadithEndNumber" : 1422,
+      "hadithStartNumber" : 1386,
+      "numberOfHadith" : 39
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Legal Punishments (Al-Hudud)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الحدود عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "17",
+      "hadithEndNumber" : 1463,
+      "hadithStartNumber" : 1423,
+      "numberOfHadith" : 47
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Hunting"
+      }, {
+        "lang" : "ar",
+        "name" : "كتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "18",
+      "hadithEndNumber" : 1492,
+      "hadithStartNumber" : 1464,
+      "numberOfHadith" : 36
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Sacrifices"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الأضاحى عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "19",
+      "hadithEndNumber" : 1523,
+      "hadithStartNumber" : 1493,
+      "numberOfHadith" : 36
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Vows and Oaths"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "20",
+      "hadithEndNumber" : 1547,
+      "hadithStartNumber" : 1524,
+      "numberOfHadith" : 26
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Military Expeditions"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب السير عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "21",
+      "hadithEndNumber" : 1618,
+      "hadithStartNumber" : 1548,
+      "numberOfHadith" : 83
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Virtues of Jihad"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "22",
+      "hadithEndNumber" : 1669,
+      "hadithStartNumber" : 1619,
+      "numberOfHadith" : 52
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Jihad"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الجهاد عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "23",
+      "hadithEndNumber" : 1719,
+      "hadithStartNumber" : 1670,
+      "numberOfHadith" : 53
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Clothing"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب اللباس"
+      } ],
+      "bookNumber" : "24",
+      "hadithEndNumber" : 1787,
+      "hadithStartNumber" : 1720,
+      "numberOfHadith" : 76
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Food"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الأطعمة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "25",
+      "hadithEndNumber" : 1860,
+      "hadithStartNumber" : 1788,
+      "numberOfHadith" : 78
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Drinks"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الأشربة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "26",
+      "hadithEndNumber" : 1896,
+      "hadithStartNumber" : 1861,
+      "numberOfHadith" : 37
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on Righteousness And Maintaining Good Relations With Relatives"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب البر والصلة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "27",
+      "hadithEndNumber" : 2035,
+      "hadithStartNumber" : 1897,
+      "numberOfHadith" : 141
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on Medicine"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "28",
+      "hadithEndNumber" : 2088,
+      "hadithStartNumber" : 2036,
+      "numberOfHadith" : 53
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Inheritance"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الفرائض عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "29",
+      "hadithEndNumber" : 2115,
+      "hadithStartNumber" : 2090,
+      "numberOfHadith" : 26
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Wasaya (Wills and Testament)"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الوصايا عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "30",
+      "hadithEndNumber" : 2124,
+      "hadithStartNumber" : 2116,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Wala' And Gifts"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "31",
+      "hadithEndNumber" : 2132,
+      "hadithStartNumber" : 2125,
+      "numberOfHadith" : 9
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Al-Qadar"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب القدر عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "32",
+      "hadithEndNumber" : 2157,
+      "hadithStartNumber" : 2133,
+      "numberOfHadith" : 25
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Al-Fitan"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الفتن عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "33",
+      "hadithEndNumber" : 2269,
+      "hadithStartNumber" : 2158,
+      "numberOfHadith" : 112
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Dreams"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الرؤيا عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "34",
+      "hadithEndNumber" : 2294,
+      "hadithStartNumber" : 2270,
+      "numberOfHadith" : 25
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters On Zuhd"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الزهد عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "36",
+      "hadithEndNumber" : 2414,
+      "hadithStartNumber" : 2304,
+      "numberOfHadith" : 112
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on the description of the Day of Judgement, Ar-Riqaq, and Al-Wara'"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله"
+      } ],
+      "bookNumber" : "37",
+      "hadithEndNumber" : 2522,
+      "hadithStartNumber" : 0,
+      "numberOfHadith" : 108
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on the description of Paradise"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "38",
+      "hadithEndNumber" : 2735,
+      "hadithStartNumber" : 2523,
+      "numberOfHadith" : 50
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on the Description of Hellfire"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "39",
+      "hadithEndNumber" : 2605,
+      "hadithStartNumber" : 2573,
+      "numberOfHadith" : 33
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "The Book on Faith"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الإيمان عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "40",
+      "hadithEndNumber" : 2644,
+      "hadithStartNumber" : 2606,
+      "numberOfHadith" : 39
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on Knowledge"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب العلم عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "41",
+      "hadithEndNumber" : 2687,
+      "hadithStartNumber" : 2645,
+      "numberOfHadith" : 43
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on Seeking Permission"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "42",
+      "hadithEndNumber" : 2735,
+      "hadithStartNumber" : 2688,
+      "numberOfHadith" : 48
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on The Virtues of the Qur'an"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب ثواب القرآن عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "45",
+      "hadithEndNumber" : 2926,
+      "hadithStartNumber" : 2875,
+      "numberOfHadith" : 52
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on Recitation"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب القراءات عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "46",
+      "hadithEndNumber" : 2949,
+      "hadithStartNumber" : 2927,
+      "numberOfHadith" : 23
+    }, {
+      "book" : [ {
+        "lang" : "en",
+        "name" : "Chapters on Supplication"
+      }, {
+        "lang" : "ar",
+        "name" : " كتاب الدعوات عن رسول الله صلى الله عليه وسلم"
+      } ],
+      "bookNumber" : "48",
+      "hadithEndNumber" : 3604,
+      "hadithStartNumber" : 3370,
+      "numberOfHadith" : 244
+    } ],
+    "limit" : 100,
+    "total" : 44
+  },
+  "collection" : [ {
+    "lang" : "en",
+    "shortIntro" : "Jami` at-Tirmidhi is a collection of hadith compiled by Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). His collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (ﷺ). It contains roughly 4400 hadith (with repetitions) in 46 books. \r\n",
+    "title" : "Jami` at-Tirmidhi"
+  }, {
+    "lang" : "ar",
+    "shortIntro" : "Jami` at-Tirmidhi is a collection of hadith compiled by Imam Abu `Isa Muhammad at-Tirmidhi (rahimahullah). His collection is unanimously considered to be one of the six canonical collections of hadith (Kutub as-Sittah) of the Sunnah of the Prophet (ﷺ). It contains roughly 4400 hadith (with repetitions) in 46 books. \r\n",
+    "title" : "جامع الترمذي "
+  } ],
+  "hasBooks" : true,
+  "hasChapters" : true,
+  "name" : "tirmidhi",
+  "totalAvailableHadith" : 4041,
+  "totalHadith" : 3956
+}
+]
